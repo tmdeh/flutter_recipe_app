@@ -26,4 +26,8 @@ abstract class ColorStyles {
   static const Color warning = Color(0xFFFFE1E7);
 
   static const Color success = Color(0xFF31B057);
+
+  static const Color primaryColor = primary100;
+  static const Color secondaryColor = secondary100;
+  static const Color labelColor = Color(0xFF121212);
 }
